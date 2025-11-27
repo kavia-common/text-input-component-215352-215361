@@ -1,0 +1,4 @@
+{
+    "command": "npm run lint",
+    "working_directory": "/home/kavia/workspace/code-generation/text-input-component-215352-215361/frontend_react_native"
+}
